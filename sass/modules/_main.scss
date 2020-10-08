@@ -1,0 +1,79 @@
+body { 
+    font-family: 'Lato', sans-serif; 
+    font-size:16px; 
+    background-color: #505050; 
+}
+
+#bottomPanel {
+    margin:0;
+  }
+
+.bodyC {
+    position:relative;
+    padding:0;
+    background-color:#f1f1f1;
+    margin-right:-15px;
+}
+
+
+
+.courseStuff, .calendarStuff, .lowerPanelNav, .footerStuff { 
+    margin:0; 
+}
+
+.courseInfo { 
+    position:relative;
+    left:40px;
+    font-weight:300;
+    color:#969595;
+}
+
+.courseInfo h2 { 
+    font-weight:300; 
+    font-size:4.2rem;
+    padding-top:10px;
+}
+
+.courseInfo h3 { 
+    font-weight:300; 
+    margin-bottom:15px; 
+}
+
+.lowerPanelNav { 
+    font-size:1.8rem; 
+}
+
+.lowerPanelNav li { 
+    margin-right:60px; cursor:pointer; 
+}
+
+.lowerPanelNav li:last-child { 
+    margin-right:0; 
+}
+
+
+.mainC_nav { position:absolute; right:0; margin-right:30px; margin-top:35px; z-index:100; cursor:pointer;}
+.mainC_nav li { position:relative; margin-right:5px; }
+.mainC_nav span { font-size:3rem; color:#b7bbc2; }
+
+#mBubble { 
+    position:absolute; 
+    background-color:#853c37; 
+    width:15px; height:15px; 
+    font-size:1rem; 
+    left:25px; 
+    top:-3px; 
+}
+
+
+.weeklySched {
+    position:relative;
+    left:40px;
+    color:#969595;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+
+.weeklySched > ul { 
+    margin-bottom:0; 
+}
