@@ -36,7 +36,7 @@
 .yellowBoxNav {
     position:relative;
     display:inline-block;
-    float:right;
+    float: right;
     margin-right:30px;
     text-align: center;
     vertical-align: middle;
@@ -88,9 +88,6 @@
 
 
 
-
-
-
 #topPanel { 
     margin: 0; 
     position:relative; 
@@ -100,13 +97,20 @@
     padding:0px; 
 }
 
+
+
+.img-responsive {
+    width: 100%;
+}
+
+
 .profPanel { 
     width:445px; 
     height:150px; 
     background-color: #f2f2f2; 
     position: absolute;
     left:40px;
-    top:70px;
+    top:35%;
     border-radius: 8px;
     -moz-box-shadow:    3px 3px 3px 0px #666;    
     -webkit-box-shadow: 3px 3px 3px 0px #666;
@@ -139,6 +143,7 @@
     position:relative; 
     top:10px; 
     left:20px; 
+    color: black;
 }
 
 .profPanel ul { 
