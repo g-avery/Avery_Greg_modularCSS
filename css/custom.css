@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+/* I don't know where these go */
 .calendar, .trending, .sports { 
     height:350px;
     background-color: #959595;
@@ -11,85 +12,9 @@
 
 #mainImg { width: 100%; }
 
-
-
-
-
-
-
-.bottomCalendar { position:relative; left:40px; }
-
-.dayBox { background-color:#eaeaea; color:#9b9b9b; width:90%; height:275px; }
-.dayMarker { font-size:6rem; font-weight:700; position:relative; top:-20px; }
-.dayBox i {  font-size:3rem; }
-.dayBox i:last-child { position:relative; top:-30px; }
-
 hr { border-color: #ccc; }
 
-.calendarStuff hr { margin-top:0; }
-.courseInfo hr { max-width:185px; margin-left:0; }
 
-table { color:#a4a9ae; }
-
-th {  padding-bottom:20px; font-size:1.5rem; color:#999; background-color:transparent; }
-td { font-size:1.45rem; padding:10px 0; }
-table th:first-child, table td:first-child { padding-left:30px ;}
-
-table tr:nth-child(2n+1) { background-color:#f0f2f5; }
-table tr:nth-child(2n+2) { background-color:#f6f8fa; }
-td span { margin-left:12px; margin-right:6px; font-size:1.85rem; color:#ccc; }
-td span:nth-child(1) { margin-right:0; }
-td span:nth-child(2) { margin-right:0; }
-td i { font-size:5rem; }
-
-.stretchCell { width:210px; }
-.wideCell { width:30% ;}
-.locked { color:red; }
-.viewed { color:#a3cb7c; }
-.notViewed { color:#d6b600; }
-.fbActive { color:#666; }
-
-
-.childList li { padding-top:10px; }
-
-.firstHeading { margin:0; }
-.firstHeader { margin-top:0; margin-bottom:10px; }
-
-.tempLink { text-decoration:underline; }
-.collapseLi { padding-top:5px;}
-
-
-
-
-/*attempting to style dropdowns*/
-
-#messageBadge {
-    position:relative; 
-    background-color:#853c37;  
-    font-size:1rem; 
-    left:10px;
-    top:-2px; 
-    width:30; 
-    height:30;
-    text-align:center; 
-}
-
-.emptyCircle {
-    display:inline-block;
-    width:30px;
-    height:30px;
-    background-color:#eff3f4;
-    -moz-border-radius: 50%;
-    -webkit-border-radius: 50%;
-    border-radius: 50%;  
-    margin-left:10px; 
-}
-
-.dropdown-menu .divider { margin:0; }
-
-.dropdown-menu > li > a { padding:10px 0; }
-
-.navIndicator { position:relative; height:8px; background-color:#f3d83f; width:210px; }
 
 /* ---- prof portal styles ---*/
 
