@@ -9,6 +9,7 @@ This website is the eEdu Student Portal SASS Rebuild site. For this site, I have
 This is an HTML / SASS / js / AJAX build.
 
 To view the page, clone this to the location of your choice, and open the ".html" file.
+
 You can also view the source code by opening it in any code editing program of your choice, or clicking inspect in a chrome tab.
 
 ### Prerequisites
