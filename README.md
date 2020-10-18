@@ -3,7 +3,7 @@
 # Dynamic Home Page
 
 ### Overview
-This website is the eEdu Student Portal SASS Rebuild site. For this site, I have sorted the css into different modules and compressed them into a master.css file using SASS. Int the dynamic content part, I used the Fetch API to get data from the classData and added it to the home page to complete the page.
+This website is the eEdu Student Portal SASS Rebuild site. For this site, I have sorted the css into different modules and compressed them into a master.css file using SASS. Int the dynamic content part, I used the Fetch API to get data from the classData and added it to the home page to complete the page. The Written plan can be found in the assets folder as a .pdf file. 
 
 ### Getting Started
 This is an HTML / SASS / js / AJAX build.
